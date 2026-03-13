@@ -1,0 +1,188 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "services": "Servicios",
+    "solutions": "Soluciones",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Construyendo Puentes Globales para el Desarrollo Sostenible y la Modernización Industrial",
+    "subtitle": "Synapse - Su Puente hacia la Excelencia Tecnológica China",
+    "cta": "Explorar Soluciones"
+  },
+  "about": {
+    "title": "Por Qué Synapse",
+    "subtitle": "Conectamos Oportunidades Globales",
+    "description": "Synapse sirve como el puente entre los recursos locales y soluciones tecnológicas chinas confiables y adaptables, junto con cadenas de suministro.",
+    "features": {
+      "local": {
+        "title": "Perspectiva Local",
+        "desc": "Comprensión profunda de regulaciones locales, cultura, necesidades del cliente y redes"
+      },
+      "delivery": {
+        "title": "Entrega Integral",
+        "desc": "Sistema completo de gestión de proyectos desde el diseño hasta la operación, verificado en China"
+      },
+      "flexible": {
+        "title": "Modelos de Negocio Flexibles",
+        "desc": "Cooperación tecnológica, joint ventures, EPC, BOT y más"
+      }
+    }
+  },
+  "whyUs": {
+    "title": "Por Qué Podemos Hacer Esto",
+    "phases": {
+      "initial": {
+        "title": "Fase Inicial: Ecosistema de Confianza",
+        "desc": "Nos enfocamos en construir un 'círculo de colaboración profunda' con socios core altamente confiables, verificados y complementarios para navegar la incertidumbre juntos."
+      },
+      "longterm": {
+        "title": "Largo Plazo: Sinergia Estratégica",
+        "desc": "De 'mantenernos calientes juntos' a 'iluminar juntos' - incubando y definiendo productos tecnológicos de frontera chinos prometedores."
+      }
+    },
+    "capabilities": {
+      "title": "Nuestras Capacidades Core",
+      "items": [
+        "Fuerzas Tecnológicas Estratégicas Nacionales",
+        "Capacidad de Integración Profunda",
+        "Soluciones Full-Stack Completas",
+        "Operaciones de Capital"
+      ]
+    }
+  },
+  "services": {
+    "title": "Nuestros Tres Niveles de 'Capacidades'",
+    "tiers": {
+      "tier1": {
+        "title": "Nivel de Tracción Estratégica",
+        "subtitle": "Para Necesidades de Exploración de Frontera",
+        "items": [
+          "Servicios de Nube AI / Supercomputación",
+          "Computación Cuántica",
+          "LLMs Soberanos Nacionales",
+          "AI para Ciudad / Gobierno / Educación"
+        ]
+      },
+      "tier2": {
+        "title": "Nivel de Soluciones y Ecosistema",
+        "subtitle": "Cadena de Suministro Tecnológica Madura y Exportación de Productividad",
+        "categories": {
+          "city": {
+            "title": "Ciudad Inteligente",
+            "items": ["Ciudad Inteligente", "Ciudad Segura", "Iluminación Urbana", "Farolas Inteligentes", "Parques Industriales"]
+          },
+          "energy": {
+            "title": "Energía",
+            "items": ["Almacenamiento de Energía", "Contenedores de Enfriamiento Líquido", "Enfriamiento Distribuido", "Estaciones Híbridas de Bajo Carbono", "Integración Solar-Almacenamiento-Diésel"]
+          },
+          "mining": {
+            "title": "Minería",
+            "items": ["Servicios de Exploración", "Comercio al por Mayor", "Soluciones de Minería Inteligente"]
+          },
+          "agriculture": {
+            "title": "Agricultura",
+            "items": ["Agricultura Inteligente", "Fertilizantes Ecológicos"]
+          },
+          "water": {
+            "title": "Recursos Hídricos",
+            "items": ["Gemelo Digital", "Equipos Hidrológicos", "Medidores de Nivel", "Medidores de Flujo"]
+          },
+          "manufacturing": {
+            "title": "Manufactura",
+            "items": ["Trazabilidad IoT", "Exportación de Líneas de Producción"]
+          },
+          "robotics": {
+            "title": "Robótica",
+            "items": ["Robots de O&M Inteligente", "Robots de Servicio Público", "Robots Especiales", "Robots de Tránsito Ferroviario", "Robots de Logística Inteligente"]
+          }
+        }
+      },
+      "tier3": {
+        "title": "Nivel de Entrega Local e Implementación",
+        "subtitle": "Capacidad de Entrega Integrada y Exportación de Mano de Obra",
+        "items": [
+          "Entidades Legales y Comerciales",
+          "Sistema de Gestión de Proyectos y Mano de Obra Local",
+          "Sistema de Negocios y Cumplimiento",
+          "Sistema de Soporte Back-office"
+        ]
+      }
+    }
+  },
+  "production": {
+    "title": "Exportación de Líneas de Producción",
+    "lines": [
+      {
+        "name": "Línea de Drones",
+        "desc": "Entrega completa de fábrica para fabricación de drones con diseño modular de islas"
+      },
+      {
+        "name": "Línea de Baterías",
+        "desc": "Líneas de producción completas para celdas cuadradas, cilíndricas y de bolsa"
+      },
+      {
+        "name": "Línea de Ensamblaje Automotriz",
+        "desc": "Planta de ensamblaje de vehículos llave en mano con capacidad mensual de 10,000+ unidades"
+      },
+      {
+        "name": "Línea de Vehículos Eléctricos",
+        "desc": "Líneas de ensamblaje SKD/CKD para motocicletas y scooters eléctricos"
+      },
+      {
+        "name": "Línea de Residuos Minerales",
+        "desc": "Sistemas de producción de residuos a energía y recuperación de recursos"
+      },
+      {
+        "name": "Línea de Cosméticos",
+        "desc": "Capacidad completa de categoría para cuidado de la piel, maquillaje y cuidado personal"
+      }
+    ]
+  },
+  "cooperation": {
+    "title": "Modelos de Cooperación",
+    "models": [
+      {
+        "title": "Venta Directa",
+        "desc": "Productos y Soluciones"
+      },
+      {
+        "title": "Licenciamiento Tecnológico",
+        "desc": "Producción Local"
+      },
+      {
+        "title": "Servicios EPC",
+        "desc": "Ingeniería, Procura, Construcción"
+      },
+      {
+        "title": "Inversión y Operación",
+        "desc": "Modelos BOT/BOO"
+      },
+      {
+        "title": "Joint Venture",
+        "desc": "Cooperación JV"
+      }
+    ]
+  },
+  "contact": {
+    "title": "¿Listo para Conectar?",
+    "subtitle": "Construyamos el futuro juntos",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo",
+      "company": "Empresa",
+      "message": "Mensaje",
+      "submit": "Enviar Mensaje"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Synapse. Todos los derechos reservados.",
+    "tagline": "Construyendo Puentes Globales para la Excelencia Tecnológica"
+  },
+  "language": {
+    "zh": "中文",
+    "en": "English",
+    "es": "Español"
+  }
+}

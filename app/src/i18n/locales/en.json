@@ -1,0 +1,188 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "solutions": "Solutions",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Building Global Bridges for Sustainable Development & Industrial Upgrading",
+    "subtitle": "Synapse - Your Gateway to Chinese Technology Excellence",
+    "cta": "Explore Solutions"
+  },
+  "about": {
+    "title": "Why Synapse",
+    "subtitle": "We Connect Global Opportunities",
+    "description": "Synapse serves as the bridge between local resources and reliable, adaptable Chinese technology solutions and supply chains.",
+    "features": {
+      "local": {
+        "title": "Local Insights",
+        "desc": "Deep understanding of local regulations, culture, customer needs, and networks"
+      },
+      "delivery": {
+        "title": "End-to-End Delivery",
+        "desc": "Complete project management system from design to operation, verified in China"
+      },
+      "flexible": {
+        "title": "Flexible Business Models",
+        "desc": "Technology cooperation, joint ventures, EPC, BOT, and more"
+      }
+    }
+  },
+  "whyUs": {
+    "title": "Why We Can Do This",
+    "phases": {
+      "initial": {
+        "title": "Initial Phase: Trusted Ecosystem",
+        "desc": "We focus on building a 'deep collaboration circle' with highly trusted, verified, complementary core partners to navigate uncertainty together."
+      },
+      "longterm": {
+        "title": "Long-term: Strategic Synergy",
+        "desc": "From 'keeping warm together' to 'illuminating together' - incubating and defining promising Chinese frontier technology products."
+      }
+    },
+    "capabilities": {
+      "title": "Our Core Capabilities",
+      "items": [
+        "Strategic Technology Forces",
+        "Deep Integration Capability",
+        "Full-Stack Solutions",
+        "Capital Operations"
+      ]
+    }
+  },
+  "services": {
+    "title": "Our Three-Tier 'Capability Shelf'",
+    "tiers": {
+      "tier1": {
+        "title": "Strategic Traction Layer",
+        "subtitle": "For Frontier Exploration Needs",
+        "items": [
+          "AI Cloud Services / Supercomputing",
+          "Quantum Computing",
+          "National Sovereign LLMs",
+          "City / Government / Education AI"
+        ]
+      },
+      "tier2": {
+        "title": "Solutions & Ecosystem Layer",
+        "subtitle": "Mature Tech Supply Chain & Productivity Export",
+        "categories": {
+          "city": {
+            "title": "Smart City",
+            "items": ["Smart City", "Safe City", "Urban Lighting", "Smart Street Lights", "Industrial Parks"]
+          },
+          "energy": {
+            "title": "Energy",
+            "items": ["Energy Storage", "Liquid Cooling Containers", "Distributed Air Cooling", "Low-Carbon Hybrid Stations", "Solar-Storage-Diesel Integration"]
+          },
+          "mining": {
+            "title": "Mining",
+            "items": ["Exploration Services", "Bulk Trading", "Smart Mining Solutions"]
+          },
+          "agriculture": {
+            "title": "Agriculture",
+            "items": ["Smart Agriculture", "Eco-Fertilizers"]
+          },
+          "water": {
+            "title": "Water Resources",
+            "items": ["Digital Twin", "Hydrological Equipment", "Water Level Meters", "Flow Meters"]
+          },
+          "manufacturing": {
+            "title": "Manufacturing",
+            "items": ["IoT Traceability", "Production Lines Export"]
+          },
+          "robotics": {
+            "title": "Robotics",
+            "items": ["Smart O&M Robots", "Public Service Robots", "Special Robots", "Rail Transit Robots", "Smart Logistics Robots"]
+          }
+        }
+      },
+      "tier3": {
+        "title": "Local Delivery & Implementation Layer",
+        "subtitle": "Mature Integration & Labor Export",
+        "items": [
+          "Legal & Business Entities",
+          "Project Management & Local Labor System",
+          "Business & Compliance System",
+          "Back-office Support System"
+        ]
+      }
+    }
+  },
+  "production": {
+    "title": "Production Lines Export",
+    "lines": [
+      {
+        "name": "UAV Production Line",
+        "desc": "Complete factory delivery for UAV manufacturing with modular island layout"
+      },
+      {
+        "name": "Energy Storage Battery Line",
+        "desc": "Full-range production lines for square, cylindrical, and pouch cells"
+      },
+      {
+        "name": "Automotive Assembly Line",
+        "desc": "Turnkey vehicle assembly plant with 10,000+ units monthly capacity"
+      },
+      {
+        "name": "Electric Two-Wheeler Line",
+        "desc": "SKD/CKD assembly lines for electric motorcycles and scooters"
+      },
+      {
+        "name": "Mineral Waste Processing Line",
+        "desc": "Waste-to-energy and resource recovery production systems"
+      },
+      {
+        "name": "Cosmetics Production Line",
+        "desc": "Full-category capacity for skincare, makeup, and personal care"
+      }
+    ]
+  },
+  "cooperation": {
+    "title": "Cooperation Models",
+    "models": [
+      {
+        "title": "Direct Sales",
+        "desc": "Products & Solutions"
+      },
+      {
+        "title": "Technology Licensing",
+        "desc": "Local Production (e.g., UAV lines)"
+      },
+      {
+        "title": "EPC Services",
+        "desc": "Engineering, Procurement, Construction"
+      },
+      {
+        "title": "Investment & Operation",
+        "desc": "BOT/BOO Models"
+      },
+      {
+        "title": "Joint Venture",
+        "desc": "JV Co-operation"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Ready to Connect?",
+    "subtitle": "Let's build the future together",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "company": "Company",
+      "message": "Message",
+      "submit": "Send Message"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Synapse. All rights reserved.",
+    "tagline": "Building Global Bridges for Technology Excellence"
+  },
+  "language": {
+    "zh": "中文",
+    "en": "English",
+    "es": "Español"
+  }
+}
